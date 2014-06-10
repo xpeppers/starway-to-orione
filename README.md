@@ -46,3 +46,18 @@ The Orione Team Study Path
     * What's the difference between them?
     * What is design for?
       * in other words, how would you reply to the following statement: _"I just need to understand what to do (analysis) and than do it (coding). Everything else does not matter!"_
+
+###Testing
+* Watch "The Clean Code Talks -- Unit Testing" video from M.Havery: http://www.youtube.com/watch?v=wEhu57pih5w
+* Write a post on 1) what you learn 2) what puzzled you most?
+
+###Refactoring
+["Refactoring: Improving the Design of Existing Code"](http://www.amazon.it/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by M.Fowler
+1. Chapter 3. ("bad smells in code")
+  * Write a blog post explaining what are, in your opinion, the 3 top smells, and why
+
+###Good Object-Oriented design principles and heuristics
+* Rad the article ["Keep It DRY, Shy, and Tell the Other Guy"](http://media.pragprog.com/articles/may_04_oo1.pdf)
+* Tell Don't Ask principle
+  * read the article ["Tell, Don't Ask"](http://pragprog.com/articles/tell-dont-ask)
+  * read the article ["The Art of Enbugging"] (http://media.pragprog.com/articles/jan_03_enbug.pdf)
