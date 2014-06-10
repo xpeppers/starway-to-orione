@@ -2,7 +2,7 @@ Starway to Orione: the Orione Team Study Path
 =================
 
 This is the study path every new dev has to follow when enters in our team.
-Please feel free to contribute, add materials, fix the existing ones and propose new stuff.
+Please feel free to fork and contribute, add materials, fix the existing ones and propose new stuff.
 
 #The path
 [The study path](study-path.md)
