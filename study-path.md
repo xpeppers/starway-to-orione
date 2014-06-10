@@ -1,6 +1,5 @@
 Starway to Orione
 =================
-The Orione Team Study Path
 
 #Sections
 * The Pomodoro technique
