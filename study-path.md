@@ -22,6 +22,7 @@ Starway to Orione
 ##Clean Code path
 ###Refactoring
 ["Refactoring: Improving the Design of Existing Code"](http://www.amazon.it/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by M.Fowler
+
 1. Chapter 1. Refactoring, a First Example
 1. Chapter 2. Principles in Refactoring
 1. Exercises
