@@ -23,6 +23,10 @@ We use the pomodoro technique at work and when studying, so it's important to ma
   * read the article ["Tell, Don't Ask"](http://pragprog.com/articles/tell-dont-ask)
   * read the article ["The Art of Enbugging"](http://media.pragprog.com/articles/jan_03_enbug.pdf)
 
+####The Clean Code path
+* Read chapters 1-10 of __"The Clean Code"__ book
+* View episodes 1-7 ("Fundamentals") of __"The Clean Coder"__ screencast series: http://cleancoders.com/category/fundamentals#videos
+
 ###Refactoring
 ["Refactoring: Improving the Design of Existing Code"](http://www.amazon.it/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by M.Fowler
 
