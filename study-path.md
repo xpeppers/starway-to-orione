@@ -2,10 +2,10 @@ Starway to Orione
 =================
 
 #Sections
-* The Pomodoro technique
-* Object-Oriented Design and Principles
-* SOLID principles
-* UML basics
+* The Pomodoro Technique
+* Object-Oriented Design Principles
+* SOLID Principles
+* UML Basics
 * Design Patterns
 * Test Automation
 * Test Driven Development (TDD)
@@ -13,13 +13,16 @@ Starway to Orione
 * Learning Ruby and Rails
 
 ##Common starting path
+We use the pomodoro technique at work and when studying, so it's important to master it before starting the path
 * Read ["The Pomodoro Technique"](http://pomodorotechnique.com/) paper by F.Cirillo.
 
-##Ruby path
-1. Complete all the [Ruby koans](http://rubykoans.com/).
-1. Read ["Eloquent Ruby"](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104) - chapter 1-9 ("basics")
-
 ##Clean Code path
+###Good Object-Oriented design principles and heuristics
+* Rad the article ["Keep It DRY, Shy, and Tell the Other Guy"](http://media.pragprog.com/articles/may_04_oo1.pdf)
+* Tell Don't Ask principle
+  * read the article ["Tell, Don't Ask"](http://pragprog.com/articles/tell-dont-ask)
+  * read the article ["The Art of Enbugging"](http://media.pragprog.com/articles/jan_03_enbug.pdf)
+
 ###Refactoring
 ["Refactoring: Improving the Design of Existing Code"](http://www.amazon.it/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by M.Fowler
 
@@ -56,8 +59,7 @@ Starway to Orione
 1. Chapter 3. ("bad smells in code")
   * Write a blog post explaining what are, in your opinion, the 3 top smells, and why
 
-###Good Object-Oriented design principles and heuristics
-* Rad the article ["Keep It DRY, Shy, and Tell the Other Guy"](http://media.pragprog.com/articles/may_04_oo1.pdf)
-* Tell Don't Ask principle
-  * read the article ["Tell, Don't Ask"](http://pragprog.com/articles/tell-dont-ask)
-  * read the article ["The Art of Enbugging"] (http://media.pragprog.com/articles/jan_03_enbug.pdf)
+
+##Ruby path
+1. Complete all the [Ruby koans](http://rubykoans.com/).
+1. Read ["Eloquent Ruby"](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104) - chapter 1-9 ("basics")
