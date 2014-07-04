@@ -18,7 +18,7 @@ We use the pomodoro technique at work and when studying, so it's important to ma
 
 ##Clean Code path
 ###Good Object-Oriented design principles and heuristics
-* Rad the article ["Keep It DRY, Shy, and Tell the Other Guy"](http://media.pragprog.com/articles/may_04_oo1.pdf)
+* Read the article ["Keep It DRY, Shy, and Tell the Other Guy"](http://media.pragprog.com/articles/may_04_oo1.pdf)
 * Tell Don't Ask principle
   * read the article ["Tell, Don't Ask"](http://pragprog.com/articles/tell-dont-ask)
   * read the article ["The Art of Enbugging"](http://media.pragprog.com/articles/jan_03_enbug.pdf)
@@ -63,3 +63,15 @@ We use the pomodoro technique at work and when studying, so it's important to ma
 ##Ruby path
 1. Complete all the [Ruby koans](http://rubykoans.com/).
 1. Read ["Eloquent Ruby"](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104) - chapter 1-9 ("basics")
+
+---
+
+#Bibliography
+* __"The Clean Code"__ by Robert C. Martin (http://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* __"Refactoring: Improving the Design of Existing Code"__ by Martin Fowler
+* __"Test Driven Development: By Example"__ by Kent Beck
+* __"Growing Object-Oriented Software, Guided by Tests"__ (http://www.amazon.it/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+* __"Patterns of Enterprise Application Architecture"__ by Martin Fowler (http://www.amazon.it/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+* __"Effective Java"__ (2nd edition) by J.Bloch
+* __"Working Effectively with Legacy Code"__ by Micheal Feathers
+* __"Understanding the Four Rules of Simple Design"__ by C.Haines (https://leanpub.com/4rulesofsimpledesign)
