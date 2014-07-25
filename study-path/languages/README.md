@@ -1,5 +1,5 @@
 # Languages paths
-* [Ruby](/ruby)
-* [PHP](/php)
-* [Java](/java)
-* [Javascript](/java)
+* [Ruby](ruby)
+* [PHP](php)
+* [Java](java)
+* [Javascript](java)
