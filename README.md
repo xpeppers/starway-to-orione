@@ -14,3 +14,6 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * [@xpeppers](https://twitter.com/xpeppers)
   * on github: https://github.com/xpeppers
 * [@pierodibello](http://twitter.com/pierodibello)
+* [@filippo-liverani](https://github.com/filippo-liverani)
+* [@christian-fei](https://github.com/christian-fei)
+* [@pdincau](https://github.com/pdincau)
