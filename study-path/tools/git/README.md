@@ -16,3 +16,6 @@
     * Capitolo 6: [Git tools](http://git-scm.com/book/en/Git-Tools)
     * Git Tools - Stashing: [Git stashing](http://git-scm.com/book/en/Git-Tools-Stashing)
     * Git Tools - Submodules: [Git submodules](http://git-scm.com/book/en/Git-Tools-Submodules)
+2. Git Tutorials: [Git Tutorials](https://www.atlassian.com/git)
+    * Git Workflows I: [Centralized workflow](https://www.atlassian.com/git/workflows#!workflow-centralized)
+    * Git Workflows II: [Feature Branching workflow](https://www.atlassian.com/git/workflows#!workflow-feature-branch)
