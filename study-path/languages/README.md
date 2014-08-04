@@ -2,4 +2,5 @@
 * [Ruby](ruby)
 * [PHP](php)
 * [Java](java)
-* [Javascript](java)
+* [Javascript](javascript)
+    * [Angular](javascript/angular)
