@@ -2,6 +2,8 @@
 
 This is the study path every new dev has to follow when joins our team.
 
+This path reflect our team's culture and values, which have its roots in the [agile values and principles](http://agilemanifesto.org/) and in the [software craftmanship manifesto](http://manifesto.softwarecraftsmanship.org/).
+
 Please feel free to fork and contribute, add materials, fix the existing ones and propose new stuff.
 
 ## The path
