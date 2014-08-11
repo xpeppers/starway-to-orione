@@ -57,9 +57,6 @@ These four videos (and the related blogpost series) are really valuable to learn
 #Bibliography
 * [__"The Clean Code"__]((http://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 * [__"Clean coders"__](http://cleancoders.com/) screencasts by Robert C. Martin
-* __"Refactoring: Improving the Design of Existing Code"__ by Martin Fowler
-* __"Test Driven Development: By Example"__ by Kent Beck
-* [__"Growing Object-Oriented Software, Guided by Tests"__](http://www.amazon.it/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+* [__"Refactoring: Improving the Design of Existing Code"__](http://www.amazon.it/Refactoring-Improving-Design-Existing-Code/dp/0201485672) by Martin Fowler
 * [__"Patterns of Enterprise Application Architecture"__](http://www.amazon.it/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) by Martin Fowler
-* __"Working Effectively with Legacy Code"__ by Micheal Feathers
-* [__"Understanding the Four Rules of Simple Design"__](https://leanpub.com/4rulesofsimpledesign) by C.Haines 
+* [__"Working Effectively with Legacy Code"__](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Micheal Feathers
