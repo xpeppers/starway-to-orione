@@ -18,8 +18,8 @@
 3. Exercises
  * Chapter 1: Re-play by yourself the example, starting from a codebase covered by tests.
  You may start from this code if you like:
-     * Ruby: https://gist.github.com/xpepper/5308896
-     * Java: https://github.com/xpeppers/Refactoring-Chapter-1
+     * [Ruby code](https://gist.github.com/xpepper/5308896)
+     * [Java code](https://github.com/xpeppers/Refactoring-Chapter-1)
   * Answer to the following questions:
     * why should you refactor?
     * when should you refactor?
@@ -39,9 +39,19 @@
     * What is design for?
       * in other words, how would you reply to the following statement: _"I just need to understand what to do (analysis) and than do it (coding). Everything else does not matter!"_
 
-## Testing
-1. Watch "The Clean Code Talks -- Unit Testing" video from M.Havery: http://www.youtube.com/watch?v=wEhu57pih5w
-2. Write a post on 1) what you learn 2) what puzzled you most?
+## Testing and testability
+### The Clean Code Talks series by [Miško Hevery](http://misko.hevery.com/)
+These four videos (and the related blogpost series) are really valuable to learn how to design for testability.
+1. Watch ["The Clean Code Talks -- Unit Testing" video](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)]. Then read [his blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/).
+3. Watch ["The Clean Code Talks -- Inheritance, Polymorphism, & Testing" video](https://www.youtube.com/watch?v=4F72VULWFvc) (~ 40 minutes). Then read [his blogpost](http://misko.hevery.com/2008/12/08/clean-code-talks-inheritance-polymorphism-testing/) (there you can find the slides too).
+3. Watch ["The Clean Code Talks - Don't Look For Things!" video](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (~ 35 minutes) which talks about the Dependency Injection pattern. Then read [his blogpost](http://misko.hevery.com/2008/11/11/clean-code-talks-dependency-injection/) (there you can find the slides too).
+4. Watch ["The Clean Code Talks - "Global State and Singletons" video](https://www.youtube.com/watch?v=-FRm3VPhseI) (~ 55 minutes). Then read [his blogpost](http://misko.hevery.com/2008/11/21/clean-code-talks-global-state-and-singletons/) (there you can find the slides too).
+5. For each video you see, write a short post (e.g. on your public [gist](https://gist.github.com/)) on
+  * what you learn
+  * what puzzled you most?
+6. Read Miško Hevery's guide on ["Writing Testable Code"](http://misko.hevery.com/code-reviewers-guide/)
+
+
 
 ---
 #Bibliography

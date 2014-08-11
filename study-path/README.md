@@ -2,7 +2,7 @@
 
 ## Main path
 1. [The Pomodoro Technique](pomodoro-technique)
-2. [Clean code](clean-code)
+2. [Clean code path](clean-code)
 
 ## Side paths
 * [Languages](languages)
