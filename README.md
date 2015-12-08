@@ -22,10 +22,13 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * How should we organize all the available paths so that everyone can make up its own path?
 
 ### Contributors
-* All XPeppers team members ([@xpeppers](https://twitter.com/xpeppers))
+* All XPeppers team members ([@xpeppers](https://twitter.com/xpeppers)), featuring:
   * Pietro Di Bello [@pierodibello](http://twitter.com/pierodibello)
   * Filippo Liverani [@filippo-liverani](https://github.com/filippo-liverani)
   * Paolo D'Incau [@pdincau](https://github.com/pdincau)
-  * Giuseppe Capizzi [@gcapizzi](https://github.com/gcapizzi)
-  * Pietro Campagnano [@fain182](https://github.com/fain182)
   * Christian Fei [@christian-fei](https://github.com/christian-fei)
+  
+* Giuseppe Capizzi [@gcapizzi](https://github.com/gcapizzi)
+* Pietro Campagnano [@fain182](https://github.com/fain182)
+   
+  
