@@ -1,10 +1,6 @@
 # The Clean Code path
 
 ## Good Object-Oriented design principles and heuristics
-1. Read the article ["Keep It DRY, Shy, and Tell the Other Guy"](http://media.pragprog.com/articles/may_04_oo1.pdf)
-2. Tell Don't Ask principle
-  * read the article ["Tell, Don't Ask"](http://pragprog.com/articles/tell-dont-ask)
-  * read the article ["The Art of Enbugging"](http://media.pragprog.com/articles/jan_03_enbug.pdf)
 
 ## Clean Code
 1. Read chapters 1-10 of __"The Clean Code"__ book
@@ -27,17 +23,6 @@
     * what is the relation between refactoring and design?
 4. Chapter 3. ("bad smells in code")
   * Write a blog post explaining what are, in your opinion, the 3 top smells, and why
-
-## OO Analysis
-["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062) (2nd ed.) by C.Larman.
-1. Read cap.1 ("Object-Oriented Analysis and Design")
-  * Try to estimate the time needed to study that chapter (using the pomodoro technique)
-  * Answer (for example on the team's wiki pages)
-    * What is analysis?
-    * What is design?
-    * What's the difference between them?
-    * What is design for?
-      * in other words, how would you reply to the following statement: _"I just need to understand what to do (analysis) and than do it (coding). Everything else does not matter!"_
 
 ## Testing and testability
 ### The Clean Code Talks series by [Miško Hevery](http://misko.hevery.com/)
