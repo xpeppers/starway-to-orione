@@ -49,6 +49,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * See [Lets Play on TDD](http://www.jamesshore.com/Blog/Lets-Play) by James Shore
 * For __italian speakers__, Piergiuliano Bossi's [screencasts on TDD](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) are a good starting point: there are five basic lession and a final video on emergent design.
 * Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD
+* Extra: Follow the [The World's Best Intro to TDD](http://online-training.jbrains.ca/p/wbitdd-01) by J. B. Rainsberger
 
 ## Side study paths
 * [Languages](study-path/languages)
