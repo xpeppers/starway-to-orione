@@ -1,12 +1,12 @@
-# Starway to Orione: the Orione Team Study Path
+# Starway to Orione: the Orione Team Learning Path
 
-This is the study path every new dev has to follow when joins our team.
+This is the learning path every new dev has to follow when joins our team.
 
 This path reflect our team's culture and values, which have its roots in the [agile values and principles](http://agilemanifesto.org/), as well as in those of XP, and in the [software craftsmanship manifesto](http://manifesto.softwarecraftsmanship.org/).
 
 Please feel free to fork and contribute, add materials, fix the existing ones and propose new stuff.
 
-## Main study path
+## Main learning path
 
 ### Session 1 - Intro
 
@@ -106,7 +106,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * See [Sandro Mancuso - Crafted Design](http://vimeo.com/101106002)
 * See [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman)
 
-## Side study paths
+## Side learning paths
 * [Languages](study-path/languages)
 * [Tools](study-path/tools)
 * [Operations](study-path/operations)
