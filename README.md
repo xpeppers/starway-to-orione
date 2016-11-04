@@ -118,6 +118,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   * Paolo D'Incau [@pdincau](https://github.com/pdincau)
   * Christian Fei [@christian-fei](https://github.com/christian-fei)
   * Simon Vocella [@voxsim](https://github.com/voxsim)
+  * Joe Bew [@joebew42](https://github.com/joebew42/study-path)
 
 * Giuseppe Capizzi [@gcapizzi](https://github.com/gcapizzi)
 * Pietro Campagnano [@fain182](https://github.com/fain182)
