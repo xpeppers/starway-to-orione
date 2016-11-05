@@ -111,18 +111,6 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * [Tools](study-path/tools)
 * [Operations](study-path/operations)
 
-### Contributors
-* All XPeppers team members ([@xpeppers](https://twitter.com/xpeppers)), featuring:
-  * Pietro Di Bello [@pierodibello](http://twitter.com/pierodibello)
-  * Filippo Liverani [@filippo-liverani](https://github.com/filippo-liverani)
-  * Paolo D'Incau [@pdincau](https://github.com/pdincau)
-  * Christian Fei [@christian-fei](https://github.com/christian-fei)
-  * Simon Vocella [@voxsim](https://github.com/voxsim)
-  * Joe Bew [@joebew42](https://github.com/joebew42/study-path)
-
-* Giuseppe Capizzi [@gcapizzi](https://github.com/gcapizzi)
-* Pietro Campagnano [@fain182](https://github.com/fain182)
-
 ### Additional Bibliography
 * [__"Patterns of Enterprise Application Architecture"__](http://www.amazon.it/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) by Martin Fowler
 * [__"Working Effectively with Legacy Code"__](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Micheal Feathers
