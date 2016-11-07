@@ -40,12 +40,12 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   4. Watch ["The Clean Code Talks - "Global State and Singletons" video](https://www.youtube.com/watch?v=-FRm3VPhseI) (~ 55 minutes). Then read [his blogpost](http://misko.hevery.com/2008/11/21/clean-code-talks-global-state-and-singletons/) (there you can find the slides too).
 
   5. For each video you see, write a short post (e.g. on your public [gist](https://gist.github.com/)) on
-    * what you learn
+    * what you learned
     * what puzzled you most?
 
   6. Read Miško Hevery's guide on ["Writing Testable Code"](http://misko.hevery.com/code-reviewers-guide/)
 * See [Lets Play on TDD](http://www.jamesshore.com/Blog/Lets-Play) by James Shore
-* For __italian speakers__, Piergiuliano Bossi's [screencasts on TDD](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) are a good starting point: there are five basic lession and a final video on emergent design.
+* For __italian speakers__, Piergiuliano Bossi's [screencasts on TDD](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) are a good starting point: there are five basic lessons and a final video on emergent design.
 * Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD
 * Extra: Follow the [The World's Best Intro to TDD](http://online-training.jbrains.ca/p/wbitdd-01) by J. B. Rainsberger
 
@@ -53,7 +53,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 * Read first ten chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [SOLID principles](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-  * [SRP: Single Responsability Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
+  * [SRP: Single Responsibility Principle](https://docs.google.com/open?id=0ByOwmqah_nuGNHEtcU5OekdDMkk)
   * [OCP: Open-Closed Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1&hl=en)
   * [LSP: Liskov Substitution Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh&hl=en)
   * [ISP: Interface Segregation Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=en)
@@ -119,6 +119,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   * Christian Fei [@christian-fei](https://github.com/christian-fei)
   * Simon Vocella [@voxsim](https://github.com/voxsim)
   * Joe Bew [@joebew42](https://github.com/joebew42/study-path)
+  * Ivan Lombardi Borgia [@ivanlb](https://github.com/ivanlb)
 
 * Giuseppe Capizzi [@gcapizzi](https://github.com/gcapizzi)
 * Pietro Campagnano [@fain182](https://github.com/fain182)
