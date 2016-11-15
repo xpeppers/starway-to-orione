@@ -1,8 +1,8 @@
 # Starway to Orione: the Orione Team Learning Path
 
-This is the learning path every new dev has to follow when joins our team.
+This is the learning path every new developer has to follow when joining the XPeppers team.
 
-This path reflect our team's culture and values, which have its roots in the [agile values and principles](http://agilemanifesto.org/), as well as in those of XP, and in the [software craftsmanship manifesto](http://manifesto.softwarecraftsmanship.org/).
+This path reflects our team's culture and values, which have their roots in the [agile values and principles](http://agilemanifesto.org/), as well as in those of XP, and in the [software craftsmanship manifesto](http://manifesto.softwarecraftsmanship.org/).
 
 Please feel free to fork and contribute, add materials, fix the existing ones and propose new stuff.
 
