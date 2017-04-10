@@ -1,5 +1,3 @@
-This is study path related to microservices. It is not a study path on programming, if you want to improve in this sense please take a look at [this](https://github.com/joebew42/study-path).
-
 Introductory Videos
 ===================
 
