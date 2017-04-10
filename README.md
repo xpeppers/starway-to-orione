@@ -110,6 +110,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * [Languages](study-path/languages)
 * [Tools](study-path/tools)
 * [Operations](study-path/operations)
+* [On Microservices](study-path/microservices)
 
 ### Additional Bibliography
 * [__"Patterns of Enterprise Application Architecture"__](http://www.amazon.it/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) by Martin Fowler
