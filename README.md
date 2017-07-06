@@ -19,7 +19,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
     * What is design?
     * What's the difference between them?
     * What is design for?
-      * in other words, how would you reply to the following statement: _"I just need to understand what to do (analysis) and than do it (coding). Everything else does not matter!"_
+      * in other words, how would you reply to the following statement: _"I just need to understand what to do (analysis) and then do it (coding). Everything else does not matter!"_
 * Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf)
 * Tell Don't Ask principle
   * read the article [Tell, Don't Ask](http://pragprog.com/articles/tell-dont-ask)
@@ -29,7 +29,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ### Session 2 - Testing and TDD
 
 * Read [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
-* See the Clean Code Talks series: these four videos (and the related blogpost series) are really valuable to learn how to design for testability.
+* Watch the Clean Code Talks series: these four videos (and the related blogpost series) are really valuable to learn how to design for testability.
 
   1. Watch ["The Clean Code Talks -- Unit Testing" video](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)]. Then read [his blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/).
 
@@ -39,7 +39,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
   4. Watch ["The Clean Code Talks - "Global State and Singletons" video](https://www.youtube.com/watch?v=-FRm3VPhseI) (~ 55 minutes). Then read [his blogpost](http://misko.hevery.com/2008/11/21/clean-code-talks-global-state-and-singletons/) (there you can find the slides too).
 
-  5. For each video you see, write a short post (e.g. on your public [gist](https://gist.github.com/)) on
+  5. For each video you watched, write a short post (e.g. on your public [gist](https://gist.github.com/)) on
     * what you learned
     * what puzzled you most?
 
