@@ -44,7 +44,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
     * what puzzled you most?
 
   6. Read Miško Hevery's guide on ["Writing Testable Code"](http://misko.hevery.com/code-reviewers-guide/)
-* See [Lets Play on TDD](http://www.jamesshore.com/Blog/Lets-Play) by James Shore
+* Watch [Lets Play on TDD](http://www.jamesshore.com/Blog/Lets-Play) by James Shore
 * For __italian speakers__, Piergiuliano Bossi's [screencasts on TDD](https://www.youtube.com/channel/UCKu3XCVh7pe06khn4N1uCiQ) are a good starting point: there are five basic lessons and a final video on emergent design.
 * Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD
 * Extra: Follow the [The World's Best Intro to TDD](http://online-training.jbrains.ca/p/wbitdd-01) by J. B. Rainsberger
@@ -61,8 +61,8 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
   * find SOLID violations
 * Read [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
-* See [Is SOLID A Good Idea](http://vimeo.com/20388419)
-* See [Responsive Design](http://www.infoq.com/presentations/responsive-design)
+* Watch [Is SOLID A Good Idea](http://vimeo.com/20388419)
+* Watch [Responsive Design](http://www.infoq.com/presentations/responsive-design)
 * Extra: Follow the [__"Clean coders"__](http://cleancoders.com/) screencasts by Robert C. Martin
 
 ### Session 4 - Hexagonal architecture
@@ -75,9 +75,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### Session 5: Refactoring
 
-* See [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
+* Watch [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 * Read first three chapters of [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
-* See [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
+* Watch [Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
   * [Example Code](https://github.com/sandromancuso/trip-service-kata)
 * Try the [GildedRoseKata](https://github.com/joebew42/GildedRose)
   * Code Coverage
@@ -100,11 +100,11 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read [The Four Elements of Simple Design](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design)
 * Read [Overcoming the one weakness of OOP](http://blogs.ugidotnet.org/luKa/archive/2015/01/20/overcoming-the-one-weakness-of-oop.aspx)
 * Read [Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
-* See [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)
-* See [J.B. Rainsberger - Integrated Tests Are A Scam](http://vimeo.com/80533536)
-* See [Sandro Mancuso - Testing and Refactoring Legacy Code](http://vimeo.com/76472757)
-* See [Sandro Mancuso - Crafted Design](http://vimeo.com/101106002)
-* See [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman)
+* Watch [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)
+* Watch [J.B. Rainsberger - Integrated Tests Are A Scam](http://vimeo.com/80533536)
+* Watch [Sandro Mancuso - Testing and Refactoring Legacy Code](http://vimeo.com/76472757)
+* Watch [Sandro Mancuso - Crafted Design](http://vimeo.com/101106002)
+* Watch [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman)
 
 ## Side learning paths
 * [Languages](study-path/languages)
