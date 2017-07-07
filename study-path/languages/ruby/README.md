@@ -7,4 +7,5 @@
 # Rails Path
 1. Complete [Code School Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
 2. Complete [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-3. Read [Agile Web Development With Rails 5.1](https://pragprog.com/book/rails51/agile-web-development-with-rails-51) - chapters 18-24
+3. Watch [GoRuCo 2012 Hexagonal Rails](https://www.youtube.com/watch?v=CGN4RFkhH2M)
+4. Read [Agile Web Development With Rails 5.1](https://pragprog.com/book/rails51/agile-web-development-with-rails-51) - chapters 18-24
