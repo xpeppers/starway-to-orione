@@ -3,8 +3,8 @@
 2. Complete all the [Ruby koans](http://rubykoans.com/)
 3. Read:
     - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
-    - [Thoughtbot Style Guide] (https://github.com/thoughtbot/guides/tree/master/style/ruby)
-    - [Thoughtbot Test Guide]https://github.com/thoughtbot/guides/tree/master/style/testing
+    - [Thoughtbot Style Guide](https://github.com/thoughtbot/guides/tree/master/style/ruby)
+    - [Thoughtbot Test Guide](https://github.com/thoughtbot/guides/tree/master/style/testing)
 4. Read [The Ruby Way (3rd edition)](http://therubyway.io/) - chapters 1-8
 5. Read [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-rofessional-Series/dp/0321584104) - chapters 1-9
 6. Read [Practical Object-Oriented Design in Ruby (POODR)](http://www.poodr.com/)
