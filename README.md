@@ -25,7 +25,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Tell Don't Ask principle
   * read the article [Tell, Don't Ask](http://pragprog.com/articles/tell-dont-ask)
   * read the article [The Art of Enbugging](http://media.pragprog.com/articles/jan_03_enbug.pdf)
-* Do the [Kata String Calculator](http://osherove.com/tdd-kata-1/)
+* Do the [Kata String Calculator](https://github.com/xpeppers/string-calculator-kata)
 
 ### Session 2 - Testing and TDD
 
