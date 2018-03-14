@@ -8,7 +8,7 @@ This study path has been organized and divided into the following **_competence 
 * Pure Coaching
 * Business
 
-Moreover, to ease the creation of personal and customized study paths, we divided the **_competence areas_** in modules, from zero to hero.
+Moreover, to ease the creation of personal and customized study paths, we divided the **_competence areas_** in modules, from zero to hero.    
 That way, students will be able to create their own study path mixing self assessment and proposed modules.
 
 Regardless of the competence area: [Workbook per Agile Coach](https://drive.google.com/file/d/0ByysWdfTp_ZGZjdFS0lya09LY0U/view?usp=sharing).
@@ -161,7 +161,7 @@ Regardless of the competence area: [Workbook per Agile Coach](https://drive.goog
 ## Retrospective
 * [Agile Retrospective by Diana Larsen](https://www.amazon.it/Agile-Retrospectives-Making-Teams-Great/dp/0977616649/ref=sr_1_1?ie=UTF8&qid=1479307584&sr=8-1&keywords=agile+retrospective)
 * [Project Retrospective](https://www.amazon.it/Project-Retrospectives-Handbook-Reviews-Dorset-ebook/dp/B00DY3KQJU/ref=sr_1_1?ie=UTF8&qid=1479307602&sr=8-1&keywords=project+retrospective)
-* [The Retrospective handbook by Patrick Kua] (https://www.amazon.it/Retrospective-Handbook-guide-agile-teams/dp/1480247871/ref=sr_1_1?ie=UTF8&qid=1479307618&sr=8-1&keywords=retrospective+handbook)
+* [The Retrospective handbook by Patrick Kua](https://www.amazon.it/Retrospective-Handbook-guide-agile-teams/dp/1480247871/ref=sr_1_1?ie=UTF8&qid=1479307618&sr=8-1&keywords=retrospective+handbook)
 * [Guida alla retrospettiva](http://www.mokabyte.it/2014/04/retrospective-1/) (italian)
 
 
@@ -185,8 +185,8 @@ Regardless of the competence area: [Workbook per Agile Coach](https://drive.goog
 
 ### Module #4
 
-* [The Retrospective handbook by Patrick Kua - (Chapter 1) Retrospective Fundamentals] (https://www.amazon.it/Retrospective-Handbook-guide-agile-teams/dp/1480247871/ref=sr_1_1?ie=UTF8&qid=1479307618&sr=8-1&keywords=retrospective+handbook)
-* [The Retrospective handbook by Patrick Kua - (Chapter 2) Facilitating Retrospectives] (https://www.amazon.it/Retrospective-Handbook-guide-agile-teams/dp/1480247871/ref=sr_1_1?ie=UTF8&qid=1479307618&sr=8-1&keywords=retrospective+handbook)
+* [The Retrospective handbook by Patrick Kua - (Chapter 1) Retrospective Fundamentals](https://www.amazon.it/Retrospective-Handbook-guide-agile-teams/dp/1480247871/ref=sr_1_1?ie=UTF8&qid=1479307618&sr=8-1&keywords=retrospective+handbook)
+* [The Retrospective handbook by Patrick Kua - (Chapter 2) Facilitating Retrospectives](https://www.amazon.it/Retrospective-Handbook-guide-agile-teams/dp/1480247871/ref=sr_1_1?ie=UTF8&qid=1479307618&sr=8-1&keywords=retrospective+handbook)
 
 ### Module #5
 
