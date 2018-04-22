@@ -101,6 +101,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read [The Four Elements of Simple Design](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design)
 * Read [Overcoming the one weakness of OOP](http://blogs.ugidotnet.org/luKa/archive/2015/01/20/overcoming-the-one-weakness-of-oop.aspx)
 * Read [Object Calisthenics](http://williamdurand.fr/2013/06/03/object-calisthenics/)
+* Read about the [Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 * Watch [Ian Cooper - TDD, where did it all go wrong](http://vimeo.com/68375232)
 * Watch [J.B. Rainsberger - Integrated Tests Are A Scam](http://vimeo.com/80533536)
 * Watch [Sandro Mancuso - Testing and Refactoring Legacy Code](http://vimeo.com/76472757)
