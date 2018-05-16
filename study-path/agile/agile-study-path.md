@@ -1,6 +1,6 @@
 1) **The Agile Manifesto**: [http://agilemanifesto.org](http://agilemanifesto.org) Go read it. And [read the history](http://agilemanifesto.org/history.html) of why, and how, it came to be. Oh, and [don't skip the principles](http://agilemanifesto.org/principles.html). Then listen to [Agile Uprising's interviews of 13 of the 17 Manifesto signatories](http://podcast.agileuprising.com/manifesto-author-review/).
 
-2) **Agile Product Ownership in a nutshell** https://www.youtube.com/watch?v=502ILHjX9EE(there's also a blogpost with a full transcription: http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell)
+2) **Agile Product Ownership in a nutshell** [video](https://www.youtube.com/watch?v=502ILHjX9EE) by Henrik Kniberg (there's also a blogpost with a full transcription: http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell)
 
 3) **The Scrum Guide**: [http://scrumguides.org](http://scrumguides.org) Jeff Sutherland and Ken Schwaber created Scrum in 1993/1995 (depending on whom you want to believe) and they don't hate each other anymore so The Scrum Guide has been consolidated after they split their efforts between Scrum Alliance and Scrum.org
 
