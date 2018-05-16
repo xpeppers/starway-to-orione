@@ -117,7 +117,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### 8 - Software development economics
 * Read chapter 3 ```Economics of Software Development``` of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
-* Read chapter Tool22 ```Contracts``` of [Lean Software Development: An Agile Toolkit](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
+* Read chapter 7, section with title ```Tools 22: Contracts``` of [Lean Software Development: An Agile Toolkit](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
 
 ## Side learning paths
 * [Languages](study-path/languages)
