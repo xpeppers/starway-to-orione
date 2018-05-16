@@ -25,7 +25,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### 2 - Testing and TDD
 
-* Read chapter 9 ```The Three Lows of TDD``` of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) ```#onboarding```
+* Read chapter 9 ```"The Three Laws of TDD"``` of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) ```#onboarding```
 * Read [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * Watch the Clean Code Talks series: these four videos (and the related blogpost series) are really valuable to learn how to design for testability.
 
@@ -116,8 +116,8 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read chapters about Stability 3, 4, 5 and Capacity 8, 9, 10 of [Release It!](https://pragprog.com/book/mnee/release-it) ```#onboarding```
 
 ### 8 - Software development economics
-* Read chapter 3 ```Economics of Software Development``` of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
-* Read chapter 7, section with title ```Tools 22: Contracts``` of [Lean Software Development: An Agile Toolkit](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
+* Read chapter 3 ```"Economics of Software Development"``` of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
+* Read chapter 7, section with title ```"Tools 22": Contracts``` of [Lean Software Development: An Agile Toolkit](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
 
 ## Side learning paths
 * [Languages](study-path/languages)
