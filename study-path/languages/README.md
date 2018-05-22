@@ -1,7 +1,8 @@
 # Languages paths
-* [Ruby](ruby)
-* [PHP](php)
 * [Java](java)
 * [Javascript](javascript)
     * [Angular](javascript/angular)
+* [PHP](php)
+* [Ruby](ruby)
+* [Scala](scala)
 * [Swift](swift)
