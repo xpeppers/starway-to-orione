@@ -8,7 +8,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ## Main learning path
 
-### 1 - Methodology
+### 1) Methodology
 * Read chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) ```#onboarding```
 * Read chapters 2, 6 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
 * [Iterative and Incremental Development](http://condor.depaul.edu/dmumaugh/readings/handouts/SE430/IIDI.pdf) ```#onboarding```
@@ -23,15 +23,15 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
     * What is design for?
       * in other words, how would you reply to the following statement: _"I just need to understand what to do (analysis) and then do it (coding). Everything else does not matter!"_
 
-### 2 - Testing and TDD
+### 2) Testing and TDD
 
 * Read chapter 9 ```"The Three Laws of TDD"``` of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) ```#onboarding```
 * Read [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * Watch the Clean Code Talks series: these four videos (and the related blogpost series) are really valuable to learn how to design for testability.
 
-  1. Watch ["The Clean Code Talks -- Unit Testing" video](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)]. Then read [his blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/). ```#onboarding```
+  1. Watch ["The Clean Code Talks - Unit Testing" video](http://www.youtube.com/watch?v=wEhu57pih5w) (~ 30 minutes) [[slides](https://docs.google.com/presentation/d/1mZsq0WljEfgIR9Df_IcW0VQfNl-Pk_cEBR3i9id-eR4/present#slide=id.i0)]. Then read [his blogpost](http://misko.hevery.com/2008/11/04/clean-code-talks-unit-testing/). ```#onboarding```
 
-  2. Watch ["The Clean Code Talks -- Inheritance, Polymorphism, & Testing" video](https://www.youtube.com/watch?v=4F72VULWFvc) (~ 40 minutes). Then read [his blogpost](http://misko.hevery.com/2008/12/08/clean-code-talks-inheritance-polymorphism-testing/) (there you can find the slides too). ```#onboarding```
+  2. Watch ["The Clean Code Talks - Inheritance, Polymorphism, & Testing" video](https://www.youtube.com/watch?v=4F72VULWFvc) (~ 40 minutes). Then read [his blogpost](http://misko.hevery.com/2008/12/08/clean-code-talks-inheritance-polymorphism-testing/) (there you can find the slides too). ```#onboarding```
 
   3. Watch ["The Clean Code Talks - Don't Look For Things!" video](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (~ 35 minutes) which talks about the Dependency Injection pattern. Then read [his blogpost](http://misko.hevery.com/2008/11/11/clean-code-talks-dependency-injection/) (there you can find the slides too).
 
@@ -47,7 +47,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Do the [Sales Kata](https://github.com/xpeppers/sales-taxes-problem) in TDD ```#onboarding```
 * Extra: Follow the [The World's Best Intro to TDD](http://online-training.jbrains.ca/p/wbitdd-01) by J. B. Rainsberger
 
-### 3 - Clean code
+### 3) Clean code
 
 * Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf) ```#onboarding```
 * Read the article [You Aren't Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
@@ -69,7 +69,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Watch [Responsive Design](http://www.infoq.com/presentations/responsive-design)
 * Extra: Follow the [__"Clean coders"__](http://cleancoders.com/) screencasts by Robert C. Martin
 
-### 4: Refactoring
+### 4) Refactoring
 
 * Watch [Martin Fowler @ OOP2014 "Workflows of Refactoring"](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 * Read first three chapters of [Refactoring: Improving the design of existing code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) ```#onboarding```
@@ -81,7 +81,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   * Add the new feature
 * Try the [TennisRefactoringKata](https://github.com/emilybache/Tennis-Refactoring-Kata) (find code smells)
 
-### 5: TDD and "Friends"
+### 5) TDD and "Friends"
 
 * Read [The Four Elements of Simple Design](http://www.jbrains.ca/permalink/the-four-elements-of-simple-design) ```#onboarding```
 * [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs)
@@ -103,7 +103,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Watch [Sandro Mancuso - Crafted Design](http://vimeo.com/101106002)
 * Watch [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman)
 
-### 6 - Hexagonal architecture
+### 6) Hexagonal architecture
 
 * Read http://alistair.cockburn.us/Hexagonal+architecture ```#onboarding```
 * Read http://matteo.vaccari.name/blog/the-hexagonal-architecture
@@ -111,11 +111,11 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read http://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid
 * Read http://c2.com/cgi/wiki?HexagonalArchitecture
 
-### 7 - Systems architecture
+### 7) Systems architecture
 
 * Read chapters about Stability 3, 4, 5 and Capacity 8, 9, 10 of [Release It!](https://pragprog.com/book/mnee/release-it) ```#onboarding```
 
-### 8 - Software development economics
+### 8) Software development economics
 * Read chapter 3 ```"Economics of Software Development"``` of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
 * Read chapter 7, section with title ```"Tools 22": Contracts``` of [Lean Software Development: An Agile Toolkit](https://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783)
 
