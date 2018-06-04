@@ -127,7 +127,6 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ## Side learning paths
 * [Languages](study-path/languages)
 * [Tools](study-path/tools)
-* [Operations](study-path/operations)
 * [On Microservices](study-path/microservices)
 * [An Agile Study Path](study-path/agile)
 
