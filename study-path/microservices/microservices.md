@@ -1,3 +1,7 @@
+Credits to @pdincau https://gist.github.com/pdincau/8e6d42dfc44cf158e70293604bae0c17
+
+This is study path related to microservices. 
+
 Introductory Videos
 ===================
 
@@ -5,6 +9,7 @@ Introductory Videos
 * [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
 * [Practical Considerations For Microservice Architecture](https://vimeo.com/105751281)
 * [Microservices Antipatterns](https://www.youtube.com/watch?v=I56HzTKvZKc)
+* [When Microservices Meet Event Sourcing](https://www.youtube.com/watch?v=cISNDnwlSgw)
 
 Introductory Blog posts
 =======================
@@ -35,6 +40,9 @@ Real Life Experience Videos
 * [Microservices @ Spotify](https://www.youtube.com/watch?v=7LGPeBgNFuU)
 * [What I Wish I Had Known Before Scaling Uber to 1000 Services](https://www.youtube.com/watch?v=57UK46qfBLY)
 * [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned](https://www.youtube.com/watch?v=57UK46qfBLY)
+* [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM&feature=youtu.be)
+* [The Microservices Journey from a Startup Perspective](https://www.youtube.com/watch?v=1BKp616GPQE)
+* [Effective Microservices in a Data-Centric World](https://www.youtube.com/watch?v=whi0T1a4cWU)
 
 All that glitters is not gold
 ===============================
@@ -54,7 +62,7 @@ Topics and Patterns highly suggested
   * Implementing Domain Driven Design - Chapter 1 to 5
   * If you want to dig deeper read the rest of the book and try "Domain Driven Design" by Evans
   * [Bounded Context](http://martinfowler.com/bliki/BoundedContext.html)
-
+  
 * Hexagonal Architecture
 
   * If you don't know what SOLID means, you should study them and in particular [Dependency Inversion Principle](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
