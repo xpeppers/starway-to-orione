@@ -64,6 +64,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
   * [DIP: Dependency Inversion Principle](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en)
 * Start the [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas) ```#onboarding```
   * find SOLID violations
+* Watch Venkat Subramaniam's talk about ["Core Design Principles for Software Developers"](https://www.youtube.com/watch?v=llGgO74uXMI) ```#onboarding```
 * Read [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 * Watch [Is SOLID A Good Idea](http://vimeo.com/20388419)
 * Watch [Responsive Design](http://www.infoq.com/presentations/responsive-design)
