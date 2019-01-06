@@ -14,6 +14,8 @@ Jeff Sutherland and Ken Schwaber created Scrum in 1993/1995 (depending on whom y
 
 7) **Read** [**everything by Jerry Weinberg**](http://www.geraldmweinberg.com/Site/Bundles.html). Well, that might take a lifetime, so [start with these](https://leanpub.com/b/qualitysoftware). Just about everyone who's considered to be an '_agile thinker_' (whatever that means) has been influenced by Jerry in one way or another.
 
+8) **Read** [Coaching Technical Practices](https://www.infoq.com/articles/coaching-technical-practices) by Pedro Santos, a really nice list of subjects to help you coaching around XP practices, specifically TDD, Pair Programming, Refactoring and Simple Design.
+
 **Honourable Mention**: Look up the [Manifesto authors](http://agilemanifesto.org/authors.html) in your spare time.
 
 (inspiration from [Jason Little's post](https://www.linkedin.com/pulse/6-things-everyone-needs-know-agile-jason-little/))
