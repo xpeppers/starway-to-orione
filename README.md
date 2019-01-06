@@ -135,3 +135,6 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * [__"Patterns of Enterprise Application Architecture"__](http://www.amazon.it/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) by Martin Fowler
 * [__"Working Effectively with Legacy Code"__](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) by Micheal Feathers
 * [__"Understanding the Four Rules of Simple Design"__](https://leanpub.com/4rulesofsimpledesign) by C.Haines
+
+### Other honorable learning paths
+* [JoeBew's Study Path](https://github.com/joebew42/study-path)!
