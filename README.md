@@ -119,7 +119,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ## Beyond Software Development
 
 ### 1) Becoming a "full-stack" Agile Developer
-* Watch [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://vimeo.com/79106557) by J.B. Rainsberger
+* Watch [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by J.B. Rainsberger
 
 ### 2) Software development economics
 * Read chapter 3 ```"Economics of Software Development"``` of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
