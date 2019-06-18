@@ -12,8 +12,8 @@ Then, if you like Kotlin and want to go on learning and practicing, be inspired 
 * [Best Practices for Unit Testing in Kotlin
 ](https://phauer.com/2018/best-practices-unit-testing-kotlin/)
 * [Effective Kotlin](https://medium.com/@appmattus/effective-kotlin-31215a6cf847)
-* Find something interesting to read here: https://kotlin.link/
-* Be curious and discover something you did't know (still) here: https://github.com/KotlinBy/awesome-kotlin
+* Find something interesting to read here at https://kotlin.link/
+* Be curious and discover something you did't know (still) in this awesome kotlin curated list: https://github.com/KotlinBy/awesome-kotlin
 * [Kotlin Sequences: An Illustrated Guide
 ](https://typealias.com/guides/kotlin-sequences-illustrated-guide/)
 * Take a look at some of Uberto's [Kotlin Pearls](https://proandroiddev.com/kotlin-pearls-multiple-inheritance-3f4d427141a5)
