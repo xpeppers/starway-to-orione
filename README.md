@@ -107,7 +107,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 
 ### 6) Hexagonal architecture
 
-* Read http://alistair.cockburn.us/Hexagonal+architecture ```#onboarding```
+* Read https://web.archive.org/web/20170916120520/http://alistair.cockburn.us/Hexagonal+architecture ```#onboarding```
 * Read http://matteo.vaccari.name/blog/the-hexagonal-architecture
 * Read http://matteo.vaccari.name/blog/archives/154
 * Read http://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid
