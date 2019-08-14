@@ -103,7 +103,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Watch [J.B. Rainsberger - Integrated Tests Are A Scam](http://vimeo.com/80533536)
 * Watch [Sandro Mancuso - Testing and Refactoring Legacy Code](https://www.youtube.com/watch?v=_NnElPO5BU0)
 * Watch [Sandro Mancuso - Crafted Design](http://vimeo.com/101106002)
-* Watch [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman)
+* Watch [Mock Roles Not Object States](http://www.infoq.com/news/2008/08/Mock-Roles-Pryce-and-Freeman) - [Paper](http://jmock.org/oopsla2004.pdf)
 
 ### 6) Hexagonal architecture
 
