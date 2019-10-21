@@ -24,3 +24,6 @@ Moreover, if you really want to go deeper:
 
 * Join the [Kotlin Slack workspace](https://surveys.jetbrains.com/s3/kotlin-slack-sign-up)
 * Read and follow the [Kotlin's official forum](https://discuss.kotlinlang.org/)
+
+### Good books to learn Kotlin
+* [Programming Kotlin - Create Elegant, Expressive, and Performant JVM and Android Applications](https://pragprog.com/book/vskotlin/programming-kotlin) by Venkat Subramaniam
