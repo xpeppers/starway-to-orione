@@ -18,7 +18,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * For __italian speakers__, Watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari ```#onboarding```
 * [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) ```#onboarding```
 * Agile Mindset:
-   * [What Exactly is the Agile Mindset?](https://www.infoq.com/articles/what-agile-mindset/)
+   * [What Exactly is the Agile Mindset?](https://www.infoq.com/articles/what-agile-mindset/) ```#onboarding```
 * Read [The Pomodoro Technique](http://pomodorotechnique.com/) paper
 * Read first chapter of ["Applying UML and Patterns"](http://www.amazon.com/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
   * Try to estimate the time needed to study that chapter (using the pomodoro technique)
