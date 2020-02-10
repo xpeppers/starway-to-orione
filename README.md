@@ -15,9 +15,9 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) ```#onboarding```
 * Read chapters 2, 6 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
 * Iterative and Incremental Development:
-  * https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf ```#onboarding```
-  * https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf ```#onboarding```
-  * https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDIII.pdf 
+  * [Waterfall](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDI.pdf) ```#onboarding```
+  * [Agile](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDII.pdf) ```#onboarding```
+  * [Transition](https://condor.depaul.edu/dmumaugh/readings/handouts/IS375/IIDIII.pdf) 
 * For __italian speakers__, Watch ["Perché è così difficile fare Extreme Programming"](https://vimeo.com/113090009) by Matteo Vaccari ```#onboarding```
 * [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) ```#onboarding```
 * Agile Mindset:
