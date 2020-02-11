@@ -11,7 +11,8 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ### 1) Methodology
 * Flat Organizations:
    * [The Flat Way](https://link.medium.com/E4kjMXajO3) ```#onboarding```
-   * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-work/)
+   * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-wè+ork/)
+   * [Collaborative decision making in self-organizing teams](https://www.agilebusinessday.com/2019/09/26/collaborative-decision-making-in-self-organizing-teams-abd19-lorenzo-massacci/)
 * Read chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) ```#onboarding```
 * Read chapters 2, 6 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
 * Iterative and Incremental Development:
