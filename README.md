@@ -11,7 +11,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 ### 1) Methodology
 * Flat Organizations:
    * [The Flat Way](https://link.medium.com/E4kjMXajO3) ```#onboarding```
-   * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-wè+ork/)
+   * [Teal Is The New Black: Self-management and the future of work](https://management30.com/blog/teal-organization-self-management-future-of-work/)
    * [Collaborative decision making in self-organizing teams](https://www.agilebusinessday.com/2019/09/26/collaborative-decision-making-in-self-organizing-teams-abd19-lorenzo-massacci/)
 * Read chapters 1, 4, 5, 7 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416) ```#onboarding```
 * Read chapters 2, 6 of [XP Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
@@ -100,7 +100,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * [Good Design is Easily-Learned](http://blog.scottbellware.com/2009/01/good-design-is-easily-learned.html)
 * Try to learn and repeat these Katas autonomously
   * [TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
-  * [TheRomanNumeralsKata](http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary)
+  * [TheRomanNumeralsKata](https://web.archive.org/web/20180602202843/http://www.codekatas.org/casts/roman-numerals-kata-with-audio-commentary) ([video](https://www.youtube.com/watch?v=vX-Yym7166Y))
 * Read the first eight chapters of [Growing Object Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)
 * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
 * Encapsulation e Information Hiding:
