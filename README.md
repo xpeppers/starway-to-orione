@@ -62,7 +62,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * Read the article [Keep It DRY, Shy, and Tell the Other Guy](http://media.pragprog.com/articles/may_04_oo1.pdf) ```#onboarding```
 * Read the article [You Aren't Gonna Need It](http://wiki.c2.com/?YouArentGonnaNeedIt)
 * Tell Don't Ask principle
-  * read the article [Tell, Don't Ask](http://pragprog.com/articles/tell-dont-ask)
+  * read the article [Tell, Don't Ask](https://codingjourneyman.com/2015/03/23/tell-dont-ask-principle/)
   * read the article [The Art of Enbugging](http://media.pragprog.com/articles/jan_03_enbug.pdf)
 * Do the [Kata String Calculator](https://github.com/xpeppers/string-calculator-kata)
 * Read first ten chapters of [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
