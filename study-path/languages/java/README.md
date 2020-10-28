@@ -3,6 +3,7 @@
 ## Basic of Java
 
 * Lean the basics of Java with its "programming koans": https://github.com/matyb/java-koans
+* Practice some basic Java exercises on https://exercism.io/tracks/java
 
 ## Into Modern Java
 * Read [Effective Java](http://www.amazon.com/gp/product/0321356683)
